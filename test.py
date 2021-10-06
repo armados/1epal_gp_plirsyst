@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
  
 import libnikos as nikos
-import libxristos as xristos
+import libxristosmato as xristosmato
 
 nikos.say_hello()
 
-xristos.say_hello()
+xristosmato.say_hello()
