@@ -6,3 +6,5 @@ import libxristosmato as xristosmato
 nikos.say_hello()
 
 xristosmato.say_hello()
+
+kostas.say_hello()
